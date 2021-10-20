@@ -5,7 +5,7 @@
         {
             "key": "DOMAIN_NAME",
             "description": "Domain name of the website, leave blank if want to use default domain provided by Deta",
-            "value": "tiiny.deta.dev",
+            "value": "gizmo.ga",
             "required": false 
         }
     ]
